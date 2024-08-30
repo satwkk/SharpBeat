@@ -2,6 +2,7 @@
 A fast C# discord moderation and music streaming bot supporting multiple music platform APIs.
 
 # Commands Available
+```bash
 -play <keyworld or url>
 -skip
 -leave
@@ -9,6 +10,7 @@ A fast C# discord moderation and music streaming bot supporting multiple music p
 -owner
 -addrole <username> <role>
 -removerole <username> <role>
+```
 
 # Usage
 1. Paste your bot token inside Program.cs
