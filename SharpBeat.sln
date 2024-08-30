@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpBeat", "SharpBeat\SharpBeat.csproj", "{12B60F76-71AC-4D7D-BC4E-BD44AC831383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B60F76-71AC-4D7D-BC4E-BD44AC831383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B60F76-71AC-4D7D-BC4E-BD44AC831383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B60F76-71AC-4D7D-BC4E-BD44AC831383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B60F76-71AC-4D7D-BC4E-BD44AC831383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FE400C3-DCF9-4C4E-A267-F28AC331B126}
+	EndGlobalSection
+EndGlobal
